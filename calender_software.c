@@ -12,7 +12,7 @@ int main(){
 void calender(int year)
 {
     system("cls");
-    // clrscr();
+    // clrscr();a
     int month,day,row,col,sum;
     system("cls");
     printf("\tCalender of %d\n\n",year);
